@@ -27,22 +27,26 @@ namespace labtask03
             get { return z; }
             set { z = value; }
         }
-        void ShowInfo()
+       public void ShowInfo()
         {
             Console.WriteLine("X :" + x);
             Console.WriteLine("Y :" + y);
             Console.WriteLine("Z :" + z);
         }
         
-        TestTriangle()
+        public void TestTriangle()
         {
-            if (x == y == z)
+            if (x == y || y == z)
             {
-                Console.WriteLine("The Triangle is equalateral");
+                Console.WriteLine("The Triangle is equalateral\n\n");
             }
-            else if (x = y)
+            else if (x == y || y == z || x == z)
             {
-                
+                Console.WriteLine("The Triangle is isosceles\n\n");
+            }
+            else
+            {
+                Console.WriteLine("The Triangle is scalene\n\n");
             }
         }
     }
