@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Csharp\ArrayP2\ArrayP2\obj\Debug\ArrayP2.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Csharp\ArrayP2\ArrayP2\obj\Debug\ArrayP2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\ArrayP2\ArrayP2\bin\Debug\ArrayP2.exe.config
+C:\Users\USER\Desktop\Csharp\ArrayP2\ArrayP2\bin\Debug\ArrayP2.exe
+C:\Users\USER\Desktop\Csharp\ArrayP2\ArrayP2\bin\Debug\ArrayP2.pdb
+C:\Users\USER\Desktop\Csharp\ArrayP2\ArrayP2\obj\Debug\ArrayP2.exe
+C:\Users\USER\Desktop\Csharp\ArrayP2\ArrayP2\obj\Debug\ArrayP2.pdb
