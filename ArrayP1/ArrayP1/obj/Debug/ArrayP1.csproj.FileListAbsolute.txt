@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Csharp\ArrayP1\ArrayP1\obj\Debug\ArrayP1.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Csharp\ArrayP1\ArrayP1\obj\Debug\ArrayP1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\ArrayP1\ArrayP1\bin\Debug\ArrayP1.exe.config
+C:\Users\USER\Desktop\Csharp\ArrayP1\ArrayP1\bin\Debug\ArrayP1.exe
+C:\Users\USER\Desktop\Csharp\ArrayP1\ArrayP1\bin\Debug\ArrayP1.pdb
+C:\Users\USER\Desktop\Csharp\ArrayP1\ArrayP1\obj\Debug\ArrayP1.exe
+C:\Users\USER\Desktop\Csharp\ArrayP1\ArrayP1\obj\Debug\ArrayP1.pdb
