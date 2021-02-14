@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Csharp\ArrayP3\ArrayP3\obj\Debug\ArrayP3.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Csharp\ArrayP3\ArrayP3\obj\Debug\ArrayP3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\ArrayP3\ArrayP3\bin\Debug\ArrayP3.exe.config
+C:\Users\USER\Desktop\Csharp\ArrayP3\ArrayP3\bin\Debug\ArrayP3.exe
+C:\Users\USER\Desktop\Csharp\ArrayP3\ArrayP3\bin\Debug\ArrayP3.pdb
+C:\Users\USER\Desktop\Csharp\ArrayP3\ArrayP3\obj\Debug\ArrayP3.exe
+C:\Users\USER\Desktop\Csharp\ArrayP3\ArrayP3\obj\Debug\ArrayP3.pdb
